@@ -1,0 +1,9 @@
+# Ignoring secret files
+.env
+
+# Ignoring SQLite database files
+*.db
+
+# Ignoring build files
+/build/
+/out/
